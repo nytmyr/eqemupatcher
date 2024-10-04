@@ -1,0 +1,13 @@
+12
+tar,tar
+cdm,cdm
+cdf,cdf
+wok,wok
+drg,drg
+gfs,gfs
+fgt,fgt
+gbn,gbn
+tar,tar
+glm,glm
+gig,gig
+hdl,hdl

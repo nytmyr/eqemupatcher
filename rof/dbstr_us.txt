@@ -62,7 +62,7 @@ Major^Minor^String(New)
 5^12^High Elves
 5^13^Shadowknights
 5^19^Veteran Reward
-5^20^Legacy of Ykesha
+5^20^VegasEQ
 6^5^Armor Class
 6^6^Heats the blood of your target, causing between #1 and @1 damage every six seconds for %z.
 6^7^Epic Weaponry

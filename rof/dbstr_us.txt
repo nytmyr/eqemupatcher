@@ -73,7 +73,7 @@ Major^Minor^String(New)
 6^12^Dark Elves
 6^13^Druids
 6^19^Tradeskill
-6^20^Lost Dungeons of Norrath
+6^20^VegasEQ (Player Only)
 7^1^Innate Stamina
 7^4^This ability raises your base Stamina by 2 points for each ability level.
 7^5^Attack

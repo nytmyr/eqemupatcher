@@ -1,4 +1,4 @@
 [LoginServer]
-#Host=vegaseq.com:5999
+#Host=login.vegaseq.com:5999
 #Host=login.projecteq.net:5999
 Host=login.eqemulator.net:5999

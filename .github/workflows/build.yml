@@ -7,7 +7,7 @@ on:
     branches: [ "master" ]
 
 env:
-  VERSION: 2.0.3
+  VERSION: 2.0.4
   BUILD_CONFIGURATION: Release
   SERVER_NAME: ${{ vars.SERVER_NAME == '' && 'EQEmu Patcher' || vars.SERVER_NAME }}
   FILE_NAME: ${{ vars.FILE_NAME == '' && 'eqemupatcher' || vars.FILE_NAME }}
